@@ -1,0 +1,13 @@
+# Ignore node_modules in frontend
+frontend/node_modules
+frontend/.next
+frontend/.env
+frontend/dist
+
+# Ignore virtual environments
+.venv
+*.pyc
+__pycache__/
+
+# Other files or folders you want to ignore
+*.log
