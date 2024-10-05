@@ -11,3 +11,7 @@ __pycache__/
 
 # Other files or folders you want to ignore
 *.log
+
+backend/.venv
+backend/.idea
+backend/.env
