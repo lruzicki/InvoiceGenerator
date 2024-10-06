@@ -1,6 +1,6 @@
 # Invoice Generator Application
 
-This repository contains a Django backend and a Next.js frontend to process worklog files and generate invoices using the inFakt API.
+This repository contains a Django backend and a Next.js frontend to process worklog files and generate invoices using the inFakt API. It is possible to define more templates to work with different worklogs.
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
