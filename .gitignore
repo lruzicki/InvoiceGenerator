@@ -11,7 +11,22 @@ __pycache__/
 
 # Other files or folders you want to ignore
 *.log
+.env
 
 backend/.venv
 backend/.idea
 backend/.env
+
+node_modules/
+.idea/
+venv/
+*.pyc
+__pycache__/
+.DS_Store
+
+frontend/node_modules/
+.idea/
+venv/
+*.pyc
+__pycache__/
+.DS_Store
