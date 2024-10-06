@@ -50,3 +50,9 @@ Make sure you have the following installed on your system:
 1. **Navigate to the Backend Directory**
    ```bash
    cd backend
+
+
+## Preview of the application
+
+![image](https://github.com/user-attachments/assets/d9e2698a-d8e4-4a39-8365-9a9181f584c1)
+
