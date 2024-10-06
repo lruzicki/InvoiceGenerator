@@ -54,5 +54,6 @@ Make sure you have the following installed on your system:
 
 ## Preview of the application
 
-![image](https://github.com/user-attachments/assets/d9e2698a-d8e4-4a39-8365-9a9181f584c1)
+![image](https://github.com/user-attachments/assets/e61808d5-fc9a-47d0-a121-38f8910005a3)
+
 
